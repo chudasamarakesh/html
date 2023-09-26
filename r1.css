@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo {
+    height: 60px;
+}
+
+#text1 {
+    font-size: 40px;
+    margin-top: 9px;
+    font-family: 'Satisfy', cursive;
+    margin-left: -12px;
+    padding-left: 20px;
+}
+
+#div1 {
+    display: flex;
+}
+
+#nav1 {
+    background-color: #F46E3A;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#home {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    font-size: 1.7rem;
+    width: 650px;
+    font-family: 'Lobster', cursive;
+}
+a:link
+{
+    text-decoration: none;
+    color: black;
+}
+a:visited
+{
+    color: black;
+}
+#ban
+{
+    height: 600px;
+    background-image: url('images/pexels-luis-quintero-3101520.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+
